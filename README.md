@@ -1,5 +1,5 @@
 # 01_Regrassion
-This folder contains various types of Rgression Problems and their Solutions.
+### This folder contains various types of Rgression Problems and their Solutions.
 
 010_Multivariate_LR
 020_Polynomial_Regression
