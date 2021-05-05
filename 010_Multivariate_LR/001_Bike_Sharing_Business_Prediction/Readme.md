@@ -1,5 +1,5 @@
-# Brief
+# Brief:
 
-# Approach
+# Approach:
 
-# Speciality
+# Speciality:
